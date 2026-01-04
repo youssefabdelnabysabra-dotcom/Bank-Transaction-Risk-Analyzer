@@ -1,5 +1,4 @@
-# Bank-Transaction-Risk-Analyzer
-Console-based risk and anomaly analysis for bank transactions
+Bank Transaction Risk and Anomaly Analyzer
 
 This project is a console-based Python application that analyzes bank transaction
 data to detect risky customers and suspicious transactions using statistical
@@ -78,11 +77,7 @@ How to Run
    4 - Score risk  
    5-flag suspicious transactions  
    6- export reports  
-   7- display summary
-
- 
-5. not the dataset is not included due to file size limitations.
-Please download the PaySim dataset and place it inside the data folder.
+   7- display summary  
 
 
 Libraries Used
