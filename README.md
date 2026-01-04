@@ -78,7 +78,11 @@ How to Run
    4 - Score risk  
    5-flag suspicious transactions  
    6- export reports  
-   7- display summary  
+   7- display summary
+
+ 
+5. not the dataset is not included due to file size limitations.
+Please download the PaySim dataset and place it inside the data folder.
 
 
 Libraries Used
